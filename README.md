@@ -1,2 +1,2 @@
 # BootcampAlura
-My notebooks created from the Alura Data Science Bootcamp
+My notebooks created for the Alura Data Science Bootcamp
