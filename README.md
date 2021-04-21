@@ -15,6 +15,6 @@ From november 2020 to april 2021 I've been part of the Applied Data Science Boot
 * **Module 06:** Models, metrics and Machine Learning validations
 * **Final project:** A Machine Learning model to predict admission (or NOT admission) to the ICU of confirmed COVID-19 cases
 
-[Sírio Libanes COVID-19 dataset](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)
+**Final project dataset:** [Sírio Libanes COVID-19 dataset](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)
 
 **OBS:** This repository is a little messy because it's my first one and I not yet familiar with GitHub.
