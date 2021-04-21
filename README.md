@@ -17,4 +17,4 @@ From november 2020 to april 2021 I've been part of the Applied Data Science Boot
 
 [Sírio Libanes COVID-19 dataset](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)
 
-p.s.: This repository is a little messy because it's my first one and I not yet familiar with GitHub.
+**OBS:** This repository is a little messy because it's my first one and I not yet familiar with GitHub.
